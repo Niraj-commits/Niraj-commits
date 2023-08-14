@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Karki</h1>
-<h3 align="center">A learning developer from Nepal</h3>
+<h3 align="center">An IT student from Nepal</h3>
 <img align="right" alt="codingImg" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **React-JS, Figma**

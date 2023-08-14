@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niraj Karki</h1>
 <h3 align="center">A learning developer from Nepal</h3>
-
+<img align="right" alt="codingImg" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj018&label=Profile%20views&color=0e75b6&style=flat" alt="niraj018" /> </p>
 
 - 🌱 I’m currently learning **React-JS, Figma**

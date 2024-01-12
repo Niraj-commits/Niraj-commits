@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React-JS, Figma**
 
-- 📫 Reach me **noisyking44@gmail.com**
+- 📫 Reach me **karki.ni018@gmail.com**
 
 - ⚡ Fun fact **I play Chess and Table Tennis**
 

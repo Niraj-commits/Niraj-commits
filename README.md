@@ -2,7 +2,7 @@
 <h3 align="center">IT Student from Nepal</h3>
 <img align="right" alt="codingImg" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **React-JS, Figma**
+- 🌱 I’m currently learning **Python with Django**
 
 - 📫 Reach me **karki.ni018@gmail.com**
 

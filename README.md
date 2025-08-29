@@ -3,7 +3,7 @@
 <img align="right" alt="codingImg" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-commits&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-commits" /> </p>
 
-- 🌱 I’m currently learning **Django,Python,React,Figma**
+- 🌱 I’m currently learning **Django,FastAPI,React**
 
 - 📫 How to reach me **karki.ni018@gmail.com**
 
